@@ -1,6 +1,6 @@
 {
   "name": "jsnote-joconstantine",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -20,7 +20,7 @@
     "@jsnote-joconstantine/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@jsnote-joconstantine/local-api": "^0.1.0",
+    "@jsnote-joconstantine/local-api": "^0.2.0",
     "@types/node": "^16.11.7",
     "commander": "^8.3.0",
     "esbuild": "0.8.26",
